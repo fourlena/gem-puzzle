@@ -1,0 +1,47 @@
+._2NNxg{
+    display:flex;
+    flex-direction:column;
+  }
+._2NNxg ._2ORL4{
+    font-size: 26px;
+    padding-bottom: 10px;
+       color: black;}
+._2NNxg .GrHdq{
+    display: none;
+    font-size:1rem;
+    margin-bottom:10px;
+    color: black;}
+._2NNxg ._2x376{
+    width:60px;
+    height:60px;
+    background:#850f9a;
+    border:1px solid #fff;
+    border-radius:13px;
+    box-sizing:border-box;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer}
+._2NNxg ._3BwR9 select{
+    padding: 8px 10px;
+    background-color:#850f9a;
+    margin:10px 0;
+    border-radius:13px;
+    cursor:pointer}
+    ._2NNxg ._3BwR9 select:hover{
+        background-color:#d274e2;
+        border-color:#fff;
+      }
+      ._2NNxg ._24mSi,._2NNxg ._3BwR9 option {
+        background-color:#850f9a}
+
+._2NNxg ._24mSi:hover{
+    background-color:#d274e2;
+    border-color:#fff}
+._2NNxg ._24mSi{
+border-color: #fff;
+    border-radius: 13px;
+    cursor: pointer;
+    padding: 9px 10px;
+    margin-top: 10px;
+}
